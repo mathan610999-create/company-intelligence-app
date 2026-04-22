@@ -1,0 +1,12 @@
+# Generated HTML reports
+*.html
+
+# Generated reports
+divergence_analysis_report.txt
+divergence_flagged_for_review.xlsx
+high_confidence_ground_truth.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.env
